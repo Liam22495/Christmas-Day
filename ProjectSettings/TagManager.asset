@@ -13,6 +13,7 @@ TagManager:
   - StoryCanvas
   - Tree
   - GiftSpawner
+  - Obstacle
   layers:
   - Default
   - TransparentFX
